@@ -1,1 +1,1 @@
-# goit-js-hw-02
+[# goit-js-hw-03](https://klyuchukviktoriya.github.io/goit-js-hw-03/)
